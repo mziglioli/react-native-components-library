@@ -1,6 +1,8 @@
 {
-  "name": "react-native-components-library",
+  "name": "@mziglioli/react-native-components-library",
   "description": "React Native component library using Shopify's Restyle",
+  "repository": "git@github.com:mziglioli/react-native-components-library.git",
+  "version": "1.0.2",
   "keywords": [
     "components",
     "react-native-components",
